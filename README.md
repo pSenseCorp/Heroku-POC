@@ -34,7 +34,7 @@ Common methods available for Heroku-Salesforce Integration:
 
 ### Data Storage
 
-   Heroku postgres is used by heroku in this POC to store the data synced from salesforce using heroku connect. Heroku postgres is a   database as service based on the PostgreSQL.  
+   Heroku postgres data store is used in this POC to store the data synced from salesforce using heroku connect. Heroku postgres is a   database as service based on the PostgreSQL.  
 
 ### Common Commands when using Heroku CLI
 
